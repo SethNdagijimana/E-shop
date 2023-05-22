@@ -1,0 +1,14 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "Mern Shopping Cart App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Seth",
+  "license": "None",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
